@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uruciabe.github.io/YrI/sitemap_index.txt
+Sitemap: https://uruciabe.github.io/kjt/sitemap_index.txt
+Sitemap: https://uruciabe.github.io/quR/sitemap_index.txt
+Sitemap: https://uruciabe.github.io/xoO/sitemap_index.txt
